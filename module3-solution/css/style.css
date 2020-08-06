@@ -1,0 +1,33 @@
+#mainContent h2{
+	text-align: center;
+	margin-top:25px;
+	margin-bottom:25px;
+}
+#mainContent h3{
+	text-align: center;
+}
+.category{
+	background-color: lightgrey;
+	padding: 10px;
+	margin-bottom: 20px;
+	margin-right: -5px;
+	margin-left: -5px;
+}
+
+header{
+	background-color: grey;
+}
+
+.navbar-brand{
+	font-size: 28px;
+}
+
+.nav-item{
+	text-align: center;
+}
+.nav-item:hover{
+	background-color: lightgrey;
+}
+a>h1{
+	margin-left: 20%;
+}
